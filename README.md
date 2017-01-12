@@ -2,4 +2,4 @@
 
 Draft. In progress.
 
-![Control layout](conlrol-layer.png)
+![Control layout](control-layer.png)
